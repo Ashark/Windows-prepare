@@ -10,3 +10,6 @@
 ## Домен
 На самом freenom.com при регистрации домена делаем переадресацию на адрес  
 `https://github.com/Ashark/Windows-prepare/archive/refs/heads/master.zip`
+
+# Убрать круглые углы на w11
+https://github.com/valinet/Win11DisableRoundedCorners
